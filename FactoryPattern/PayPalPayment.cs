@@ -10,7 +10,7 @@ namespace FactoryPattern
     {
         public void Pay(double amount)
         {
-            Console.WriteLine($"SuucessFully Paid ${amount} to merchant using Pay Pal Method");
+            Console.WriteLine($"SucessFully Paid ${amount} to merchant using Pay Pal Method");
         }
     }
 }
